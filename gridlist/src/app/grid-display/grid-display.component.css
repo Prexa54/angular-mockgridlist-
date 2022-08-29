@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+  } 
+  th, td {
+  border-right: 1px solid #ddd;
+  }
+
+  .span1 {
+    margin-right:50px;
+  }
+
+  .row-high:hover {
+    background-color: gainsboro;
+  }
+
+  .sel-it {
+    background-color: lightblue;
+  }
